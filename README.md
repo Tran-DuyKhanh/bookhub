@@ -12,6 +12,8 @@ We are group 5:
 - Nông Đức Thịnh
 - Trần Duy Khánh
 
+*Các tài liệu báo cáo được cung cấp ở `docs/reports`*
+
 ## Acknowledgements
 
 ### Contributors
